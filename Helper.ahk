@@ -261,7 +261,7 @@ MsgBox Обновление биндера.
 Filedelete, %A_ScriptDir%\Helper.ahk
 IfnotExist, %A_ScriptDir%\Helper.ahk
 {
-URLDownloadToFile, https://filant.ru/binder/binderloader.php,%A_ScriptDir%\Helper.ahk
+URLDownloadToFile, https://raw.githubusercontent.com/6ASAP9/Helper.ahk/main/Helper.ahk,%A_ScriptDir%\Helper.ahk
 Run,%A_ScriptDir%\Helper.ahk
 return
 }
