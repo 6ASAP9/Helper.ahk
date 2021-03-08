@@ -133,7 +133,7 @@ Gui, 2: Add, Button, x10 y50 w113 h33 gПомощь , Помощь
 Gui, 2: Add, Button, x10 y90 w113 h33 gТелепорты, Телепорты
 Gui, 2: Add, Button, x10 y130 w113 h33 gКоманды, Команды
 Gui, 2: Add, Button, x10 y170 w113 h33 gОтветы, Ответы
-Gui, 2: Add, Button, x10 y210 w113 h33 gОтветыдва, Ответы 2
+Gui, 2: Add, Button, x10 y210 w113 h33 gОтветыдва, ххууху
 Gui, 2: Add, Button, x10 y250 w113 h33 gОтветытри, Ответы 3
 Gui, 2: Add, Button, x10 y290 w113 h33 gНаказания, Наказания
 Gui, 2: Add, Button, x10 y330 w113 h33 gСкилы, Скилы
