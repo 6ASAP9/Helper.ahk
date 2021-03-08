@@ -144,7 +144,7 @@ Gui, 2: Add, Button, x718 y50 w138 h37 gНов , Changelog
 Gui, 2: Add, Button, x718 y195 w138 h37 gdiscord , Ввод Вашего дискорда
 Gui, 2: Add, Button, x718 y245 w138 h37 gdiscordga , Дискорд ГА
 Gui, 2: Add, Button, x718 y100 w138 h37 gupdate, Обновить скрипт
-Gui, 2: Add, Text, x184 y14 w120 h23 +0x200 +Border +0x1, Горячие клавиши
+Gui, 2: Add, Text, x184 y14 w120 h23 +0x200 +Border +0x1, Горячие клавиши сао
 Gui, 2: Add, Hotkey, x156 y50 w48 h21 vHot1, %KEY1%
 Gui, 2: Add, Hotkey, x156 y80 w48 h21 vHot2, %KEY2%
 Gui, 2: Add, Hotkey, x156 y110 w48 h21 vHot3, %KEY3%
