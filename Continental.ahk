@@ -47,8 +47,8 @@ ButtonОбновитьскрипт:
 Filedelete, %A_ScriptDir%\NewForum.ahk
 IfnotExist, %A_ScriptDir%\NewForum.ahk
 {
-URLDownloadToFile, https://raw.githubusercontent.com/6ASAP9/Helper.ahk/main/Continental.ahk,%A_ScriptDir%\Continental.ahk
-Run,%A_ScriptDir%\Continental.ahk
+URLDownloadToFile, https://raw.githubusercontent.com/6ASAP9/Helper.ahk/main/Continental.ahk,%A_ScriptDir%\Helper.ahk\Continental.ahk
+Run,%A_ScriptDir%\Helper.ahk\Continental.ahk
 ExitApp
 }
 
